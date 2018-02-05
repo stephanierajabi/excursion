@@ -12,6 +12,21 @@ h1,
     color: white;
 }
 
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+h1 {
+  font-weight: 400;
+  font-size: 50px;
+}
+
+p {
+  color: gray;
+  font-size: 21px;
+}
+
 .link {
   color: aquamarine;
 }
