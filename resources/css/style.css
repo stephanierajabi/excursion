@@ -1,9 +1,6 @@
 * {
   font-family: Verdana;
   text-align: center;
-}
-
-body {
   background-color: black;
 }
 
@@ -12,14 +9,14 @@ h1,
     color: white;
 }
 
-h2 {
-  font-weight: 300;
-  font-size: 42px;
-}
-
 h1 {
   font-weight: 400;
   font-size: 50px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
 }
 
 p {
@@ -27,6 +24,10 @@ p {
   font-size: 21px;
 }
 
-.link {
+a {
   color: aquamarine;
+}
+
+.copyright {
+  text-align: right;
 }
